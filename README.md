@@ -1,18 +1,31 @@
-# 💫 About Me:
-Currently studying in BS Software Engineering 
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Itxijazz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Muhammad_ejaz_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Ejaz ) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mutantheroes18113-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mutantheroes18113-coder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mutantheroes18113-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Design and Developed By:
+	Name: 	Muhammad Ejaz | AI bulliyer |  | Software Engineer
 
----
-[![](https://visitcount.itsvg.in/api?id=Mutantheroes18113-coder&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://avatars.githubusercontent.com/u/34352213?v=4" width="150" height="150" alt="muhammadijaz18113@gmail.com" align="right" style="margin-right: 20px;   border: 5px solid #555; border-radius:50px; ">
+I am a versatile Software Engineer with expertise in developing top-tier software for desktop, Windows, Linux, and embedded Linux environments. Specializing in software architecture design, I bring a strategic approach to every project, ensuring robust and efficient solutions. Proficient in C++ and utilizing the powerful Qt framework alongside the Qt-Creator IDE, I deliver high-quality, cross-platform software that meets diverse client needs. Let’s collaborate to turn your software vision into reality!👨🏻‍ 👨🏻‍💻
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Connect with me:
+<a href="https://www.facebook.com/share/1CNSrq669F/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  /></a> 
+<a href="(https://www.linkedin.com/in/muhammad-ejaz-5629592b9?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a> 
+
+<a href="https://www.hackerrank.com/profile/muhammadejaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/muhammadejaz" height="30" width="40" /></a> 
+<a href="https://www.kaggle.com/muhammadejaz113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammadejaz113" height="30" width="40" /></a>
+<br>
+
+### For any Suggestion or query: 
+Email to: <a href="emailto:muhammadijaz18113@gmail.com"> muhammadijaz18113@gmail.com </a>
+
+ 
+
+## Introduction
+project introduction.
+
+## Purpose
+The Propose of Project development
+
+## Functional Requirements:
+#### 1. voice agent
+#### 2. N8N
