@@ -4,7 +4,7 @@
 Design and Developed By:
 	Name: 	Muhammad Ejaz | AI bulliyer |  | Software Engineer
 
-<img src="https://avatars.githubusercontent.com/u/34352213?v=4" width="150" height="150" alt="muhammadijaz18113@gmail.com" align="right" style="margin-right: 20px;   border: 5px solid #555; border-radius:50px; ">
+<img src="https://drive.google.com/file/d/1URmDgRKKJcEJMf4sKX4qIsfhj0cjt83z/view?usp=drive_link" width="100" height="100" alt="muhammadijaz18113@gmail.com" align="right" style="margin-right: 20px;   border: 5px solid #555; border-radius:50px; ">
 I am a versatile Software Engineer with expertise in developing top-tier software for desktop, Windows, Linux, and embedded Linux environments. Specializing in software architecture design, I bring a strategic approach to every project, ensuring robust and efficient solutions. Proficient in C++ and utilizing the powerful Qt framework alongside the Qt-Creator IDE, I deliver high-quality, cross-platform software that meets diverse client needs. Let’s collaborate to turn your software vision into reality!👨🏻‍ 👨🏻‍💻
 
 ### Connect with me:
