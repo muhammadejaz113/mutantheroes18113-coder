@@ -1,31 +1,15 @@
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ijazqureshi113) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Itxijazz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ijazqureshi498) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadejaz113) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Ijazqureshi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@muhammad_ejaz11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Muhammadejaz113) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadijaz18113@gmail.com) 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=muhammadejaz113&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=muhammadejaz113&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=muhammadejaz113&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Design and Developed By:
-	Name: 	Muhammad Ejaz | AI bulliyer |  | Software Engineer
+---
+[![](https://komarev.com/ghpvc/?username=muhammadejaz113&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://drive.google.com/file/d/1URmDgRKKJcEJMf4sKX4qIsfhj0cjt83z/view?usp=drive_link" width="100" height="100" alt="muhammadijaz18113@gmail.com" align="right" style="margin-right: 20px;   border: 5px solid #555; border-radius:50px; ">
-I am a versatile Software Engineer with expertise in developing top-tier software for desktop, Windows, Linux, and embedded Linux environments. Specializing in software architecture design, I bring a strategic approach to every project, ensuring robust and efficient solutions. Proficient in C++ and utilizing the powerful Qt framework alongside the Qt-Creator IDE, I deliver high-quality, cross-platform software that meets diverse client needs. Let’s collaborate to turn your software vision into reality!👨🏻‍ 👨🏻‍💻
-
-### Connect with me:
-<a href="https://www.facebook.com/share/1CNSrq669F/" target="blank"></a> 
-<a href="(https://www.linkedin.com/in/muhammad-ejaz-5629592b9?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="blank"></a> 
-
-<a href="https://www.hackerrank.com/profile/muhammadejaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/muhammadejaz" height="30" width="40" /></a> 
-<a href="https://www.kaggle.com/muhammadejaz113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammadejaz113" height="30" width="40" /></a>
-<br>
-
-### For any Suggestion or query: 
-Email to: <a href="emailto:muhammadijaz18113@gmail.com"> muhammadijaz18113@gmail.com </a>
-
- 
-
-## Introduction
-project introduction.
-
-## Purpose
-The Propose of Project development
-
-## Functional Requirements:
-#### 1. voice agent
-#### 2. N8N
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
